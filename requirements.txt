@@ -1,1 +1,1 @@
-discord.js==0.16.12
+"discord.js":"^12.5.3"
